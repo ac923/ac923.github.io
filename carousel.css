@@ -292,7 +292,12 @@ height:270px;
   width:370px;
 height:270px;
 }
-
+.port h1{
+  color:#00CC99;
+}
+.gal1 .overlay{
+  line-height: 10px;
+}
 @media (min-width: 992px) {
   .featurette-heading {
     margin-top: 120px;
