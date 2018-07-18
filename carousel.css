@@ -247,12 +247,12 @@ box-shadow:0 0 5px #fff;
 }
 
 .img-h .overlay{
-width:100%;
+width:93%;
 height:100%;
 position:absolute;
 overflow:hidden;
 top:0;
-left:0;
+left:25;
 opacity:0;
 color:black;
 padding-left: 11px;
