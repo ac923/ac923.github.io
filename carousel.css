@@ -25,20 +25,26 @@ footer{
 
 .jumbotron.bg-1{
   background-color: #C8C8C8 ;
-  margin-left:20px;
-  margin-right:20px;
+  /*margin-left:20px;
+  margin-right:20px;*/
   padding-bottom: 50px;
 
 }
 .jumbotron{
   background-color:#00CC99;
-  margin-left:20px;
-  margin-right:20px;
+  /*margin-left:20px;
+  margin-right:20px;*/
 }
 .jumbotron.bg-2{
   background-color:#00CC99;
-  margin-left:35px;
-  margin-right:35px;
+  /*margin-left:20px;
+  margin-right:20px;*/
+  
+}
+.header-tab{
+  margin-top: 60px;
+  margin-left:20px;
+  margin-right:20px;
 }
 
 div.img{
